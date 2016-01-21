@@ -1,5 +1,5 @@
 package com.tay.stockmatchengine;
 
-public abstract class ExecutedOrderHandler implements OrderHandler<ExecutedOrder>{
-	
+public abstract class ExecutedOrderHandler implements OrderHandler<ExecutedOrder> {
+
 }
